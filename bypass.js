@@ -4,7 +4,7 @@
   window.__datcn_full_loaded = true;
 
   // ===== CONFIG =====
-  const SPEED = 20;      // x20
+  const SPEED = 2;      // x20
   const WAIT_SEC = 3;   // countdown 30s
   const MIN_DELAY = 0;   // ms
   // ==================
